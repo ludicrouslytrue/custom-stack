@@ -1,4 +1,4 @@
-#CC Easy Task, IEEE-CS Enrollments
+
 #Divyam Agrawal, 24BIT0423
 
 class TheStackOfAllTime:
